@@ -1,0 +1,1 @@
+export const baseUrl='https://project-fair-backend-sj48.onrender.com'
